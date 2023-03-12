@@ -1,0 +1,10 @@
+git init #initialize directory as git repository
+git clone <url> #copying git repository from hosted url to local machine
+git status #show modified files in current directory
+git log #view your commit history
+git add . #add changed files into your new commit
+git commit -m "your message" #commit your changes
+git pull origin main #get up to date changes from main branch
+git pull origin main #push your changes to main brach
+git branch #list all local branches on the machine
+git push #add files to rep
